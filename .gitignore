@@ -27,4 +27,5 @@ var/
 .idea/
 .vscode/
 *.swp
-*.swo.env
+*.swo
+.env
