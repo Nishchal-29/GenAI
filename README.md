@@ -18,4 +18,4 @@ A sophisticated AI-powered coding assistant built with Streamlit, LangChain, and
 2. Create a virtual environment
 3. Install dependencies: `pip install -r requirements.txt`
 4. Install Ollama and the required models
-5. Run the application: `streamlit run app.py`
+5. Run the application: `streamlit run app_cloud.py`
